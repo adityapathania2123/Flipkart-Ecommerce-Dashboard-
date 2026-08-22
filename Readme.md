@@ -45,7 +45,7 @@ Landing page for the report with navigation to the different analytical sections
 
 
 <p align="center">
-  <img src="images/front page.png" alt="Front Page" width="900">
+  <img src="Screenshots/front page.png" alt="Front Page" width="900">
 </p>
 
 ### 📈 2. Dashboard
@@ -60,7 +60,7 @@ Provides an executive-level overview of important KPIs such as:
 - Revenue per Customer
 
 <p align="center">
-  <img src="images/Dashboard.png" alt="Dashboard" width="900">
+  <img src="Screenshots/Dashboard.png" alt="Dashboard" width="900">
 </p>
 
 ### 📦 3. Order Analysis
@@ -77,7 +77,7 @@ Provides detailed order analysis including:
 - Time-based order analysis
 
 <p align="center">
-  <img src="images/Orders.png" alt="Order Analysis" width="900">
+  <img src="Screenshots/Orders.png" alt="Order Analysis" width="900">
 </p>
 
 ### 🛍️ 4. Product Analysis
@@ -91,7 +91,7 @@ Analyzes product performance based on:
 - Sales performance
 
 <p align="center">
-  <img src="images/Product.png" alt="Product Analysis" width="900">
+  <img src="Screenshots/Product.png" alt="Product Analysis" width="900">
 </p>
 
 ### 👥 5. Customer Analysis
@@ -105,7 +105,7 @@ Provides customer-level analysis using:
 - Customer order behavior
 
 <p align="center">
-  <img src="images/Customer.png" alt="Customer Analysis" width="900">
+  <img src="Screenshots/Customer.png" alt="Customer Analysis" width="900">
 </p>
 
 ### 🔮 6. Forecasting
@@ -118,7 +118,7 @@ Provides analysis related to:
 - Increment profit
 
 <p align="center">
-  <img src="images/Forcasting.png" alt="Forecasting" width="900">
+  <img src="Screenshots/Forcasting.png" alt="Forecasting" width="900">
 </p>
 
 ### 🎯 7. Target Analysis
@@ -132,7 +132,7 @@ Key metrics include:
 - Actual Profit
 
 <p align="center">
-  <img src="images/Target.png" alt="Target Analysis" width="900">
+  <img src="Screenshots/Target.png" alt="Target Analysis" width="900">
 </p>
 
 
