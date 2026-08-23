@@ -198,7 +198,7 @@ Example DAX:
 ```DAX
 Weekend Weekday =
 IF(
-    WEEKDAY('Calendar'[Date], 2) >= 6,
+    WEEKDAY('Calendar'[Date] = "Saturday" || 'Calendar'[Date] = "Sunday",
     "Weekend",
     "Weekday"
 )
