@@ -141,6 +141,24 @@ Provides detailed data for deeper investigation and drill-down analysis.
 
 ---
 
+## 🧩 Power BI Data Model
+
+The dashboard uses a structured relational data model connecting key business entities such as **Customers, Products, Categories, Orders, and Calendar data**.
+
+The relationships between the tables are primarily designed in a **One-to-Many (1:*)** format, where dimension tables contain unique records and related fact tables contain multiple corresponding records.
+
+This model supports **accurate DAX calculations, time-based analysis, interactive filtering, drill-downs, and efficient dashboard reporting**.
+
+<p align="center">
+  <img src="images/model-view.png" alt="Power BI Data Model" width="900">
+</p>
+
+<p align="center">
+  <b>Power BI Data Model – One-to-Many (1:*) Table Relationships</b>
+</p>
+
+---
+
 # 📌 Key KPIs
 
 The dashboard contains several important measures:
