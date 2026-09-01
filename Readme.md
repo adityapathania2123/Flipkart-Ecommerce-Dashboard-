@@ -150,7 +150,7 @@ The relationships between the tables are primarily designed in a **One-to-Many (
 This model supports **accurate DAX calculations, time-based analysis, interactive filtering, drill-downs, and efficient dashboard reporting**.
 
 <p align="center">
-  <img src="images/model-view.png" alt="Power BI Data Model" width="900">
+  <img src="images/model view.png" alt="Power BI Data Model" width="900">
 </p>
 
 <p align="center">
